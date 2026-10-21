@@ -1,3 +1,11 @@
 {
-  "duyurular": []
+  "duyurular": [
+    {
+      "id": "durakbul-deneme-2026-10-21",
+      "bitis": "2026-10-31",
+      "baglanti": "https://durakbul.com",
+      "tr": { "baslik": "DurakBul", "metin": "Deneme: bu düğme DurakBul sitesini açmalı.", "dugme": "DurakBul'u aç" },
+      "en": { "baslik": "DurakBul", "metin": "Test: this button should open the DurakBul site.", "dugme": "Open DurakBul" }
+    }
+  ]
 }
