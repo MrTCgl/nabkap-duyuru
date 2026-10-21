@@ -1,3 +1,11 @@
 {
-  "duyurular": []
+  "duyurular": [
+    {
+      "id": "deneme-2026-10-21",
+      "bitis": "2026-10-28",
+      "baglanti": "https://mrtcgl.github.io/nabkap-duyuru/gizlilik.html",
+      "tr": { "baslik": "Deneme duyurusu", "metin": "Bunu görüyorsan NabKap duyuru sistemi çalışıyor.", "dugme": "Gizlilik" },
+      "en": { "baslik": "Test announcement", "metin": "If you can see this, NabKap announcements work.", "dugme": "Privacy" }
+    }
+  ]
 }
