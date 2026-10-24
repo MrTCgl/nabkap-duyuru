@@ -1,16 +1,3 @@
 {
-  "duyurular": [
-    {
-      "id": "model-indir-2026-10-21",
-      "bitis": "2027-01-31",
-      "tr": {
-        "baslik": "Önce yazıya dökme modelini indir",
-        "metin": "NabKap duyduğunu telefonun içinde yazıya döker. Bunun için bir kez model indirmen gerekir; Wi-Fi önerilir.\n\n1. Dinleme ekranında sağ üstteki Ayarlar simgesine dokun.\n2. Aşağı kaydırıp \"Yazıya dökme\" bölümüne gel.\n3. \"Dengeli\" seçili kalsın, \"İndir · 148 MB\" düğmesine bas.\n4. \"İndirildi\" yazınca hazırsın."
-      },
-      "en": {
-        "baslik": "First, download the transcription model",
-        "metin": "NabKap turns what you hear into text on your phone. This needs a one-time model download; Wi-Fi recommended.\n\n1. On the Listen screen, tap the Settings icon at the top right.\n2. Scroll down to \"Transcription\".\n3. Keep \"Balanced\" selected and tap \"Download · 148 MB\".\n4. When it says \"Downloaded\", you're ready."
-      }
-    }
-  ]
+  "duyurular": []
 }
